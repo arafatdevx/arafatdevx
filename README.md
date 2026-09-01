@@ -21,8 +21,6 @@ Passionate Full Stack Developer with a strong foundation in modern web technolog
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 ### 🔴 Frontend
 
 ![React.js](https://img.shields.io/badge/React.js-E53935?style=for-the-badge)
@@ -86,7 +84,10 @@ Passionate Full Stack Developer with a strong foundation in modern web technolog
 
 📈 GitHub Stats
 
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arafatdevx&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafatdevx&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arafatdevx&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafatdevx&layout=compact&theme=tokyonight" />
+</p>
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafatdevx&theme=tokyonight&hide_border=true" /> </p>
 
@@ -108,10 +109,10 @@ Passionate Full Stack Developer with a strong foundation in modern web technolog
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/arafatdevx">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/arafat-devp">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
