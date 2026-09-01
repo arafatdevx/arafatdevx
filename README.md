@@ -84,10 +84,10 @@ Passionate Full Stack Developer with a strong foundation in modern web technolog
 
 📈 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arafatdevx&show_icons=true&theme=tokyonight&rank_icon=github" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafatdevx&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafatdevx&theme=tokyonight&hide_border=true" /> </p>
 
